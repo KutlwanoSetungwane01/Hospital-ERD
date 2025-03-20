@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     WARD {
         string WardName PK
